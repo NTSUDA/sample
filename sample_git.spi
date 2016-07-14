@@ -9,7 +9,7 @@
 ************************************************
 
 .SUBCKT sample_git IN OUT 
-r001 OUT IN	1K 
+r001 OUT IN	2K 
 c000 OUT gnd!	1p
 .ENDS sample_git
 
