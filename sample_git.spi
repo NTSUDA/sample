@@ -1,0 +1,15 @@
+************************************************
+* Export Spice: 
+* Top Cell Name: sample_git
+* Netlisted on: Thu Jul 14 13:25:42 2016
+************************************************
+
+************************************************
+* DUT: sample_git/schematic
+************************************************
+
+.SUBCKT sample_git IN OUT 
+r001 OUT IN	1K 
+c000 OUT gnd!	1p
+.ENDS sample_git
+
